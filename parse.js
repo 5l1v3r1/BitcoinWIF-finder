@@ -6,7 +6,7 @@ sudo apt-add-repository ppa:bitcoin/bitcoin
 sudo apt-get update
 sudo apt-get install bitcoind
 
-bitcoind -datadir=/var/cff_server/wif/bitcoin/datadir -rpcport=14545 -rpcuser=test -rpcpassword=test -conf=/var/cff_server/wif/bitcoin/bitcoin.conf -deprecatedrpc=accounts -daemon
+bitcoind -datadir=/var/wif/bitcoin/datadir -rpcport=14545 -rpcuser=test -rpcpassword=test -conf=/var/wif/bitcoin/bitcoin.conf -deprecatedrpc=accounts -daemon
 
 sudo apt update
 sudo apt install redis-server
@@ -43,12 +43,12 @@ sudo nano /etc/redis/redis.conf
 	redis-cli
 		config get dir
 	redis-cli
-		CONFIG SET dir /var/cff_server/wif/redis
+		CONFIG SET dir /var/wif/redis
 		CONFIG SET dbfilename dump.rdb
 	#if error for save db
 	nano /etc/systemd/system/redis.service
 		#add in file
-		ReadWriteDirectories=-/var/cff_server/wif/redis
+		ReadWriteDirectories=-/var/wif/redis
 	sudo systemctl daemon-reload
 sudo systemctl status redis.service
 sudo systemctl restart redis-server.service
@@ -78,13 +78,13 @@ tail -F /var/log/redis/redis-server.log
 
 #Backup
 sudo systemctl stop redis
-ls -la /var/cff_server/wif/redis
-sudo chown redis:redis /var/cff_server/wif/redis
-sudo chown redis:redis /var/cff_server/wif/redis/dump.rdb
-sudo chmod 777 /var/cff_server/wif/redis -R
-sudo chmod 777 /var/cff_server/wif/redis/dump.rdb
+ls -la /var/wif/redis
+sudo chown redis:redis /var/wif/redis
+sudo chown redis:redis /var/wif/redis/dump.rdb
+sudo chmod 777 /var/wif/redis -R
+sudo chmod 777 /var/wif/redis/dump.rdb
 
-cp -rf /var/cff_server/wif/redis/dump1.rdb /var/lib/redis/dump.rdb
+cp -rf /var/wif/redis/dump1.rdb /var/lib/redis/dump.rdb
 ls -la /var/lib/redis/
 sudo chown redis:redis /var/lib/redis/dump.rdb
 sudo chmod 777 /var/lib/redis/dump.rdb
@@ -231,7 +231,7 @@ async function start_read_blocks(){
 		
 		//var fileNumber = '01'+('000' + b).slice(-3),
 		var fileNumber = ('0000' + b).slice(-5),
-			data = fs.readFileSync( '/var/cff_server/wif/bitcoin/datadir/blocks/blk' + fileNumber + '.dat'),
+			data = fs.readFileSync( '/var/wif/bitcoin/datadir/blocks/blk' + fileNumber + '.dat'),
 			reader = bufferReader(data),
 			magic = reader.read(4),
 			blockSize = reader.read(4),
