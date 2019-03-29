@@ -1,0 +1,226 @@
+[
+    {
+        "address": "1Dt8ty59tU9LkrXG2ocWeSzKFAY8fu6jga",
+        "WIFkey": "KzpjABzbCjoxyhxzweCzGG3fqpKgbgJpsJeTqGV37f2KN7RM9eGD",
+        "seed": "1",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "13hHvbAM89jEnZUK54g9i1RwskgRzWYBs1",
+        "WIFkey": "L2oAXFV4KPzoVUCEWgot4qBRAQ4GEDBBPe28XXgPTfNykt1beVtV",
+        "seed": "123",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "13k2NAUYRKCdyVFmeTShfhhvcQ6QCVWXfM",
+        "WIFkey": "L49HFoB1iFEvzXQn1agpggYGENHTW3khEL4rRArYrcWQcm1iXw4n",
+        "seed": "print",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "1xm4vFerV3pSgvBFkyzLgT1Ew3HQYrS1V",
+        "WIFkey": "L4XnHhvLC1b4ag9L2PM9kRicQxUoYT1Q36PQ21YtLNkrAdWZNos6",
+        "seed": "satoshi",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "1NekDM4vhdnTUn8fsQoGTYQhjxaPoRKFyG",
+        "WIFkey": "L18NfgTeii8rcYBb3GVfFymPdAuWtJif4vt1mHkaQqUjzRCBXjKW",
+        "seed": "what",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "1F3sAm6ZtwLAUnj7d38pGFxtP3RVEvtsbV",
+        "WIFkey": "L4rK1yDtCWekvXuE6oXD9jCYfFNV2cWRpVuPLBcCU2z8TrisoyY1",
+        "seed": "",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "1MmqjDhakEfJd9r5BoDhPApCpA75Em17GA",
+        "WIFkey": "Kxj5ejwPg2s2ejZHW7N1zAydD4fkmFi9j19QRmgeVK9mXL3wFMmp",
+        "seed": "hello",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "1CYGAH11BRDtTfX13SDSjBvrxJpmugRwSm",
+        "WIFkey": "KxghFc8eLYxeyg4ooWY9eRtq2RZs5b4i5tUgcFXDMyC5cWbEoP29",
+        "seed": "secret",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "19eA3hUfKRt7aZymavdQFXg5EZ6KCVKxr8",
+        "WIFkey": "L2ZovMyTxxQVJmMtfQemgVcB5YmiEDapDwsvX6RqvuWibgUNRiHz",
+        "seed": "test",
+        "hex": "",
+        "target": "BTC"
+    },
+    {
+        "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoWn",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000001",
+        "target": "BTC"
+    },
+    {
+        "address": "1MFWqE6cZmmjvH22DEWmt1tKSms4iyASC7",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7HKMe7qaS",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000001C",
+        "target": "LTC"
+    },
+    {
+        "address": "1MFWqE6cZmmjvH22DEWmt1tKSms4iyASC7",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7HKMe7qaS",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000001C",
+        "target": "BTC"
+    },
+    {
+        "address": "1F3sAm6ZtwLAUnj7d38pGFxtP3RVEvtsbV",
+        "WIFkey": "L4rK1yDtCWekvXuE6oXD9jCYfFNV2cWRpVuPLBcCU2z8TrisoyY1",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000B2BA651",
+        "target": "LTC"
+    },
+    {
+        "address": "1cMh228HTCiwS8ZsaakH8A8wze1JR5ZsP",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74NMTptX4",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000002",
+        "target": "BTC"
+    },
+    {
+        "address": "1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000003",
+        "target": "BTC"
+    },
+    {
+        "address": "1JtK9CQw1syfWj1WtFMWomrYdV3W2tWBF9",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU75NBY2dKG",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000004",
+        "target": "BTC"
+    },
+    {
+        "address": "19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000007",
+        "target": "BTC"
+    },
+    {
+        "address": "1EhqbyUMvvs7BfL8goY6qcPbD6YKfPqb7e",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU77MfhviY5",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000008",
+        "target": "BTC"
+    },
+    {
+        "address": "1HSxWThjiwbC4dJbXHMpBfwRenB12UguG5",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU77rcWepLD",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000009",
+        "target": "BTC"
+    },
+    {
+        "address": "15wPJhwthAkBtUgx3qFEyCtnK7piuu6Xvr",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU78rNKwdiH",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000000B",
+        "target": "BTC"
+    },
+    {
+        "address": "18xiXDdYhapNJoAp4UAkJa1WZT9U9FmQiD",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU79r7UuP1H",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000000D",
+        "target": "BTC"
+    },
+    {
+        "address": "12e2Zo4VFe2j4Cs3gru55H8JZ7PZXppHnd",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7GKcwKfzu",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000001A",
+        "target": "BTC"
+    },
+    {
+        "address": "13zdFFdFn1LxfcXF8B6VBsnKxiLkZ7zBUU",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7GpUzYZru",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000001B",
+        "target": "BTC"
+    },
+    {
+        "address": "1EMxdcJsfN5jwtZRVRvztDns1LgquGUTwi",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7QHept7Wc",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000002A",
+        "target": "BTC"
+    },
+    {
+        "address": "1LxerPZSoPQAH4iJFHJQPpbiCCsZzYpzQD",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7RnL768KG",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000002D",
+        "target": "BTC"
+    },
+    {
+        "address": "1McVt1vMtCC7yn5b9wgX1833yCcLXzueeC",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7hDgvu64y",
+        "seed": "",
+        "hex": "000000000000000000000000000000000000000000000000000000000000004C",
+        "target": "BTC"
+    },
+    {
+        "address": "12UGwi5mvuA95s34fyw2ANzmt1Bk8L1Ljt",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU8RYik3wmw",
+        "seed": "",
+        "hex": "00000000000000000000000000000000000000000000000000000000000000A1",
+        "target": "BTC"
+    },
+    {
+        "address": "1M92tSqNmQLYw33fuBvjmeadirh1ysMBxK",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU8xvGK1zpm",
+        "seed": "",
+        "hex": "00000000000000000000000000000000000000000000000000000000000000E0",
+        "target": "BTC"
+    },
+    {
+        "address": "1CQFwcjw1dwhtkVWBttNLDtqL7ivBonGPV",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUB3vfDKcxZ",
+        "seed": "",
+        "hex": "00000000000000000000000000000000000000000000000000000000000001D3",
+        "target": "BTC"
+    },
+    {
+        "address": "16wJm7xNQkGKLzNbQBtTkD7BdAbHpncT1e",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUFSPUU8i2U",
+        "seed": "",
+        "hex": "00000000000000000000000000000000000000000000000000000000000003D2",
+        "target": "BTC"
+    },
+    {
+        "address": "1iT5k9C6PQiBLjbLVHFx42xuhCX5kngh3",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUPzsB81SFn",
+        "seed": "",
+        "hex": "00000000000000000000000000000000000000000000000000000000000007B7",
+        "target": "BTC"
+    },
+    {
+        "address": "1DBaumZxUkM4qMQRt2LVWyFJq5kDtSZQot",
+        "WIFkey": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUW5RtS2JN1",
+        "seed": "",
+        "hex": "0000000000000000000000000000000000000000000000000000000000000A7B",
+        "target": "BTC"
+    }
+]
